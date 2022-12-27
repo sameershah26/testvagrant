@@ -27,7 +27,7 @@ double[] Price = {26, 20.5, 34, 0.5, 18};
    
    Scanner sc = new Scanner(System.in);
    
-   Shrijaycount(Price,Budget,NewsPaper);
+   sameercount(Price,Budget,NewsPaper);
 
 }
 }
